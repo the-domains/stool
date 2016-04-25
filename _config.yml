@@ -1,6 +1,6 @@
 name: stool
 favicon: null
-layout_spectrum: 0.3737674586009234
+layout_spectrum: 0.43713
 typography_spectrum: 0.11151849781163037
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3b1b07'
     - '#5c5c5c'
     - '#000000'
-  brandStrength: 0.6503211604431272
+  brandStrength: 1
   lightness: 0.19806691887788475
   saturation: 0.1841639329213649
   rhythmicContrast: 0.4291029442101717
