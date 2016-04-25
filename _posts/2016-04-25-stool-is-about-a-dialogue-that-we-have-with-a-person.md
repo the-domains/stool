@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: stool is about a dialogue that we have with a person....
-datePublished: '2016-04-25T23:29:04.308Z'
-dateModified: '2016-04-25T23:28:12.167Z'
+datePublished: '2016-04-25T23:34:23.442Z'
+dateModified: '2016-04-25T23:29:08.290Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-stool-is-about-a-dialogue-that-we-have-with-a-person.md
